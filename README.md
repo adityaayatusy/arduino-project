@@ -1,6 +1,8 @@
 # Project Arduino
 
 I made this project just as a hobby, and I'm using an esp8266 device
+# Required
+* ArduinoJson 6.19.4
 
 # How to setup
 
